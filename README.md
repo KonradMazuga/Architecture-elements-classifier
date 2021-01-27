@@ -3,10 +3,10 @@ It's an application that can classify image to one of sets: altar, apse,bell_tow
 
 Here is the visualization of the application:
 
-![not found]()
+![not found](https://github.com/KonradMazuga/Architecture-elements-classifier/blob/main/screenshot_1.png)
 
-![not found]()
+![not found](https://github.com/KonradMazuga/Architecture-elements-classifier/blob/main/screenshot_2.png)
 
-![not found]()
+![not found](https://github.com/KonradMazuga/Architecture-elements-classifier/blob/main/screenshot_3.png)
 
-![not found]()
+![not found](https://github.com/KonradMazuga/Architecture-elements-classifier/blob/main/screenshot_4.png)
